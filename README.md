@@ -8,4 +8,9 @@ complex things. These are the roles and fucntions to expect.
 
 ### Things an individual can do
 - Kill
-- 
+- Eat
+- Drink
+- Communicate
+- Nothing
+
+
